@@ -27,3 +27,8 @@
          
         外部程序执行目录safe_mode_exec_dir = "/usr/local/bin"
         当安全模式被激活，safe_mode_exec_dir参数限制通过exec()函数执行的可执行文件到指定的目录
+
+0x03. 审计工具
+        
+        Seay源码审计；Fortify SCA ；RIPS等
+        
